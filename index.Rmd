@@ -16,7 +16,10 @@ output:
   postcards::trestles
 
 ---
- 
+
+<p align="center">
+  <img width="200" src="Yale.png">
+</p>
 
 
 I am a lecturer in the Department of Political Science at [Yale University](https://politicalscience.yale.edu/ "Yale Political Science"){target="_blank"} and my research interests are focused on political representation, gender, and comparative political institutions. My work examines the relationship between internal political party dynamics and legislative representation. I am particularly interested in investigating the influence of internal party organization on gender equality in elections and party leadership, and my research has recently been published in JCMS: the Journal of Common Market Studies,  Party Politics, and Politics & Gender. Before arriving at Yale, I was a Postdoctoral Research Fellow at the University of Houston with the Political Parties Database under the direction of Dr. Susan Scarrow, a visiting scholar at Texas A&M University, and Fulbright Scholar at the [University of Zagreb](https://www.fpzg.unizg.hr/en/about_us "FPZG"){target="_blank"} in Croatia. I am also the Treasurer of the Women's Caucus of the Midwest Political Science Association, the co-chair of the Political Parties Research Network for the Council for European Studies, and convener of the [Gender in the Social Sciences Workshop](https://genderworkshop.yale.edu/ "Gender Workshop"){target="_blank"} at Yale.
