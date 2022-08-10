@@ -42,7 +42,7 @@ Political parties often monopolize the flow of politicians into elected office m
 </details>
 &nbsp;
 
-“[The Consequences of Quotas: Assessing the Effect of Varied Gender Quotas on Legislator Experience in the European Parliament](https://www.cambridge.org/core/journals/politics-and-gender/article/abs/consequences-of-quotas-assessing-the-effect-of-varied-gender-quotas-on-legislator-experience-in-the-european-parliament/4E1C001712F5D236327B8F1FA685CC97"The Consequences of Quotas: Assessing the Effect of Varied Gender Quotas on Legislator Experience in the European Parliament"){targe="_blank"} w/ William T Daniel, *Politics & Gender*, 16(3): 738-767 (2019)
+“[The Consequences of Quotas: Assessing the Effect of Varied Gender Quotas on Legislator Experience in the European Parliament](https://www.cambridge.org/core/journals/politics-and-gender/article/abs/consequences-of-quotas-assessing-the-effect-of-varied-gender-quotas-on-legislator-experience-in-the-european-parliament/4E1C001712F5D236327B8F1FA685CC97 "The Consequences of Quotas: Assessing the Effect of Varied Gender Quotas on Legislator Experience in the European Parliament"){targe="_blank"}" w/ William T Daniel, *Politics & Gender*, 16(3): 738-767 (2019)
 <details>
 <summary>*Abstract*</summary>
 This article explores the consequences of quotas on the level of diversity observed in legislators’ professional and political experience. We examine how party system and electoral system features that are meant to favor female representation, such as gender quotas for candidate selection or placement mandates on electoral lists, affect the composition of legislatures by altering the mix of professional and political qualifications held by its members. Using data collected for all legislators initially seated to the current session of the European Parliament, one of the largest and most diverse democratically elected legislatures in the world, we find that quotas eliminate gendered differences in experience within the institution, particularly when used in conjunction with placement mandates that ensure female candidates are featured on electoral lists in viable positions. Electoral institutions can generally help to “level the playing field” between the backgrounds of men and women in elected office while increasing the presence of desirable qualities among European Parliament representatives of both genders.
@@ -50,7 +50,7 @@ This article explores the consequences of quotas on the level of diversity obser
 </details>
 &nbsp;
 
-"[National Political Parties and Career Paths to the European Parliament](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12741 "National Political PARties adn CAreer Paths to the European Parliament"){target="_blanks"} *JCMS: Journal of Common Market Studies*, 56(6): 1283-1304. (2018)   
+"[National Political Parties and Career Paths to the European Parliament](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12741 "National Political Parties and Career Paths to the European Parliament"){target="_blank"}" *JCMS: Journal of Common Market Studies*, 56(6): 1283-1304. (2018)   
 <details>
 <summary>*Abstract*</summary>
 This paper explores how career paths leading to the European Parliament (EP) are influenced by the strategic goals of national political parties. Considering both individual career factors and the national electoral fate of political parties, it determines what conditions increase the likelihood that experienced or inexperienced politicians serve in the EP. Experienced politicians are more likely to reach the EP when they serve vote-seeking and policy-seeking parties while inexperienced politicians are more likely to enter the EP when their parties are opportunity seeking. Overall, I find the role of individual ambition is conditioned by party strategy to determine the institutional composition of the EP, contributing to a growing literature on the strategic use of European elections by national political parties. It suggests that the electoral goals of parties should be examined in order to understand the nature of democratic representation in the European Union.
@@ -94,10 +94,10 @@ campaigns and are also less likely to be the subject of valance attacks.
 &nbsp;
 
 ### Teaching
-  + Women & Politics  (2018, 2019, 2020)
-  + Comparative Political Parties and Electoral Systems (2019, 2020, 2022)
-  + Legacies of Communism and Conflict in Europe (2017, 2018, 2019, 2021)
-  + Comparative Legislatures (2017)
+  + Women & Politics  (2018, 2019, [2020](https://www.dropbox.com/s/r9ikm460q6fmo47/PLSC220.Fall20.pdf?raw=1 "Syllabus"){target="_blank"})
+  + Comparative Political Parties and Electoral Systems (2019, 2020, [2022](https://www.dropbox.com/s/fqqsb986ku9dkml/Comparative.Political.Parties.2022.pdf?raw=1 "Syllabus"){target="_blank"})
+  + Legacies of Communism and Conflict in Europe (Lecture: 2017, 2018, [2019](https://www.dropbox.com/s/2e0fpf8f27fyi4d/PLSC400.Fall2019.pdf?raw=1 "Syllabus"){target="_blank"}), Seminar: [2021](https://www.dropbox.com/s/iitda2ch9ddig5l/PLSC400.Hybrid.2021.pdf?raw=1 "Syllabus"){target="_blank"})
+  + Comparative Legislatures ([2017](https://www.dropbox.com/s/5mk3foe5tnkgrbr/Comparative.Legislatures.pdf?raw=1 "Syllabus"){target="_blank"})
  
 &nbsp;
 
