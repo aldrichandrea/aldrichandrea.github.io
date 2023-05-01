@@ -1,7 +1,7 @@
 
 ---
 title: "Andrea S. Aldrich"
-image: "yale_headshot_crop.jpg"
+image: "2023_04_17_Headshot.jpg"
 links:
   - label: CV
     url: "https://www.dropbox.com/s/ub5x1bkr993b93q/Aldrich.CV.pdf?raw=1"
@@ -29,6 +29,14 @@ Before arriving at Yale, I was a Postdoctoral Research Fellow at the University 
 
 ### Research
  **Recent Publications**
+ 
+ "Gender Quotas and the Qualifications of Parliamentarians" w/ William T. Daniel (conditionally accepted at *The Journal of Politics*)
+<details>
+<summary>*Abstract*</summary>
+Gender quotas in legislative elections are a central component of institutional reform to increase women's inclusion in politics. We investigate how quotas affect women's representation and the qualifications of parliamentarians from all EU member states over the last 40 years, which had 11 countries pass gender quotas legislation. We capitalize on the unique variation of national electoral systems used in European Parliament elections to all nine legislative sessions (1979-2019) and investigate the relationship between quotas and the qualifications of parliamentarians. We provide compelling evidence that the passage of quota legislation is associated with higher levels of educational attainment among legislators. By examining the complete elected history of the European Parliament, we are able to provide generalizable and robust support for the impact of quotas on legislator qualities in a way that has thus far been observed in only single country contexts and fixed time periods. 
+
+</details>
+&nbsp;
 
 
 "[Pandemic Performance: Women Leaders in the Covid-19 Crisis](https://www.cambridge.org/core/journals/politics-and-gender/article/pandemic-performance-women-leaders-in-the-covid19-crisis/579B3EA9BE0CD8215EE2E74257252FED  "Pandemic Performance: Women Leaders in the Covid-19"){target="_blank"}" w/ Nicholas J. Lotito, *Politics & Gender*, 16(4): 960-967. (2020)
@@ -89,14 +97,6 @@ survival of women party leaders.
 
 
 **Articles**
-
-"Gender Quotas and the Qualifications of Parliamentarians" w/ William T. Daniel (under review)
-<details>
-<summary>*Abstract*</summary>
-Gender quotas in legislative elections are a central component of institutional reform to increase women's inclusion in politics. We investigate how quotas affect women's representation and the qualifications of parliamentarians from all EU member states over the last 40 years, which had 11 countries pass gender quotas legislation. We capitalize on the unique variation of national electoral systems used in European Parliament elections to all nine legislative sessions (1979-2019) and investigate the relationship between quotas and the qualifications of parliamentarians. We provide compelling evidence that the passage of quota legislation is associated with higher levels of educational attainment among legislators. By examining the complete elected history of the European Parliament, we are able to provide generalizable and robust support for the impact of quotas on legislator qualities in a way that has thus far been observed in only single country contexts and fixed time periods. 
-
-</details>
-&nbsp;
 
 “Gender and Party Leadership Change” w/Zeynep Somer-Topcu 
 <details>
