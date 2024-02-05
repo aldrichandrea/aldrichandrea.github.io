@@ -8,7 +8,7 @@ links:
   - label: Email
     url: "mailto:andrea.aldrich@yale.edu"
   - label: Office Hours
-    url: "https://calendly.com/aldrich-andrea/15min"
+    url: "https://calendly.com/undergrad-polisci"
   - label: Data
     url: "https://dataverse.harvard.edu/dataverse/andreasaldrich/"
 
@@ -20,9 +20,9 @@ output:
  
 ## 
 
-I am a lecturer and Director of Undergraduate Studies in the Department of Political Science at Yale University and my research interests are focused on political representation, gender, and comparative political institutions. My work examines the representation of women, exploring the conditions that encourage women's political leadership and the consequences of women in power within political parties and legislative institutions. The cornerstone of my research is the multifaceted role political party institutions play in shaping representation. I focus primarily on how the internal organization of parties promote women to positions of political power and how party structures interact with system-level political institutions. I primarily focus on the European context, researching parties in both Western and Eastern Europe and the European Union. My research has been published in [Party Politics](https://journals.sagepub.com/doi/10.1177/1354068818806630 "Party Politics"){target="_blank"} and [Politics & Gender](https://www.cambridge.org/core/journals/politics-and-gender/article/pandemic-performance-women-leaders-in-the-covid19-crisis/579B3EA9BE0CD8215EE2E74257252FED  "Politics & Gender"){target="_blank"}, among others, and I have a book manuscript with [William Daniel](https://sites.google.com/site/wdaniel127/ "William T. Daniel"){target="_blank"} on the effects of gender quotas on political careers that is in preparation.
+I am a lecturer and Director of Undergraduate Studies in the Department of Political Science at Yale University and my research interests are focused on political representation, gender, and comparative political institutions. My work examines the representation of women, exploring the conditions that encourage women's political leadership and the consequences of women in power within political parties and legislative institutions. The cornerstone of my research is the multifaceted role political party institutions and electoral rules play in shaping representation. I focus primarily on how the internal organization of parties promote women to positions of political power and how party structures interact with system-level political institutions. My reseach is largely based in a European context, researching parties in both Western and Eastern Europe and the European Union. My research has been published or is forthcoming in [The Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/727603 "The Journal Of Politics"){target="_blank"}, [Party Politics](https://journals.sagepub.com/doi/10.1177/1354068818806630 "Party Politics"){target="_blank"}, and [Politics & Gender](https://www.cambridge.org/core/journals/politics-and-gender/article/pandemic-performance-women-leaders-in-the-covid19-crisis/579B3EA9BE0CD8215EE2E74257252FED  "Politics & Gender"){target="_blank"}, among others. I have a book manuscript with [William Daniel](https://sites.google.com/site/wdaniel127/ "William T. Daniel"){target="_blank"} on the effects of gender quotas on political careers that is under review and a project on women party leaders with [Zeynep Somer-Topcu](https://zeynepsomer.com/ "Zeynep Somer-Topcu"){target="_blank"} that is under contract at Cambridge University Press with the [Elements in Gender and Politics ](https://www.cambridge.org/core/publications/elements/elements-in-gender-and-politics "Elements in Gender and Politics"){trage="_blank"} series. 
 
-Before arriving at Yale, I was a Postdoctoral Research Fellow at the University of Houston with the [Political Parties Database](https://www.politicalpartydb.org/ "Political Parties Database"){target="_blank"} under the direction of Dr. Susan Scarrow, a visiting scholar at Texas A&M University, and Fulbright Scholar at the University of Zagreb in Croatia. I am also the Treasurer of the [Women's Caucus of the Midwest Political Science Association](http://www.mpsawomen.org/index.html "Women's Caucus of the Midwest Political Science Association"){target="_blank"}, a former co-chair of the [Parties Research Network for the Council for European Studies](https://councilforeuropeanstudies.org/membership/research-networks/political-parties-party-systems-and-elections/Political "Parties Research Network for the Council for European Studies"){target="_blank"}, and convener of the [Gender in the Social Sciences Workshop at Yale](https://genderworkshop.yale.edu/ "Gender in the Social SCience Workshop"){target="_blank"}. 
+Before arriving at Yale, I was a Postdoctoral Research Fellow at the University of Houston with the [Political Parties Database](https://www.politicalpartydb.org/ "Political Parties Database"){target="_blank"} under the direction of Dr. Susan Scarrow, a visiting scholar at Texas A&M University, and Fulbright Scholar at the University of Zagreb in Croatia. I am also the Treasurer of the [Women's Caucus of the Midwest Political Science Association](http://www.mpsawomen.org/index.html "Women's Caucus of the Midwest Political Science Association"){target="_blank"}, Program Chair for the [Women, Gender, and Politics](https://connect.apsanet.org/apsa2024/ "Women, Gender, and Politics"){target="_blank"} section of the APSA 2024 Annual Meeting, a former co-chair of the [Parties Research Network for the Council for European Studies](https://councilforeuropeanstudies.org/membership/research-networks/political-parties-party-systems-and-elections/Political "Parties Research Network for the Council for European Studies"){target="_blank"}, and convener of the [Gender in the Social Sciences Workshop at Yale](https://genderworkshop.yale.edu/ "Gender in the Social SCience Workshop"){target="_blank"}. 
 
 
 &nbsp;
@@ -89,7 +89,7 @@ This paper explores how career paths leading to the European Parliament (EP) are
 
 **Books**
 
-*[Glass Ceilings and Cliffs: Gendered Party Leadership in Parliamentary Systems](https://www.dropbox.com/s/d50waxtrko3bxxp/Gender_and_Party_Leadership_Change_Book%20%283%29.pdf?raw=1 "Glass Ceilings and Cliffs: Gendered Party Leadership in Parliamentary Systems"){target="_blank"}* w/ Zeynep Somer-Topcu (Under Contract with Cambridge Elements Gender and Politics Series).
+*[Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems](https://www.dropbox.com/s/d50waxtrko3bxxp/Gender_and_Party_Leadership_Change_Book%20%283%29.pdf?raw=1 "Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems"){target="_blank"}* w/ Zeynep Somer-Topcu (Under Contract with Cambridge Elements Gender and Politics Series).
 <details>
 <summary>*Abstract*</summary>
 While the number of women in office around the world is on the rise, men continue to outnumber
@@ -107,7 +107,7 @@ survival of women party leaders.
 </details>
 &nbsp;
 
-*[Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians](https://www.dropbox.com/s/ncztww14skeql2y/Title%20Page.pdf?raw=1 "Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians"){target="_blank"}* with William T. Daniel (Prepared Manuscript)
+*[Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians](https://www.dropbox.com/s/ncztww14skeql2y/Title%20Page.pdf?raw=1 "Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians"){target="_blank"}* with William T. Daniel (Manuscript Under Review)
 
 
 **Articles**
@@ -138,10 +138,12 @@ campaigns and are also less likely to be the subject of valance attacks.
 &nbsp;
 
 ### Teaching
-  + Women & Politics  (2018, 2019, [2020](https://www.dropbox.com/s/r9ikm460q6fmo47/PLSC220.Fall20.pdf?raw=1 "Syllabus"){target="_blank"})
-  + Comparative Political Parties and Electoral Systems (2019, 2020, [2022](https://www.dropbox.com/s/fqqsb986ku9dkml/Comparative.Political.Parties.2022.pdf?raw=1 "Syllabus"){target="_blank"})
-  + Legacies of Communism and Conflict in Europe (Lecture: 2017, 2018, [2019](https://www.dropbox.com/s/2e0fpf8f27fyi4d/PLSC400.Fall2019.pdf?raw=1 "Syllabus"){target="_blank"}), Seminar: [2021](https://www.dropbox.com/s/iitda2ch9ddig5l/PLSC400.Hybrid.2021.pdf?raw=1 "Syllabus"){target="_blank"})
-  + Comparative Legislatures ([2017](https://www.dropbox.com/s/5mk3foe5tnkgrbr/Comparative.Legislatures.pdf?raw=1 "Syllabus"){target="_blank"})
+  + Researching Women & Politics  (2024) (Seminar)
+  + Women, Politics, and Policy (2023) (Lecture)  
+  + Women & Politics  (2018, 2019, [2020](https://www.dropbox.com/s/r9ikm460q6fmo47/PLSC220.Fall20.pdf?raw=1 "Syllabus"){target="_blank"}, 2022) (Seminar)
+  + Comparative Political Parties and Electoral Systems (2019, 2020, [2022](https://www.dropbox.com/s/fqqsb986ku9dkml/Comparative.Political.Parties.2022.pdf?raw=1 "Syllabus"){target="_blank"}) (Seminar)
+  + Legacies of Communism and Conflict in Europe (Lecture: 2017, 2018, [2019](https://www.dropbox.com/s/2e0fpf8f27fyi4d/PLSC400.Fall2019.pdf?raw=1 "Syllabus"){target="_blank"}), Seminar: [2021](https://www.dropbox.com/s/iitda2ch9ddig5l/PLSC400.Hybrid.2021.pdf?raw=1 "Syllabus"){target="_blank"}) (Lecture)
+  + Comparative Legislatures ([2017](https://www.dropbox.com/s/5mk3foe5tnkgrbr/Comparative.Legislatures.pdf?raw=1 "Syllabus"){target="_blank"}) (Seminar)
  
 &nbsp;
 
@@ -159,8 +161,8 @@ New Haven, CT 06520-8301\
 
 &nbsp;
 
-### Check me out on Twitter
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/AndreAldrich?ref_src=twsrc%5Etfw">Tweets by AndreAldrich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--### Check me out on Twitter
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/AndreAldrich?ref_src=twsrc%5Etfw">Tweets by AndreAldrich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
 
