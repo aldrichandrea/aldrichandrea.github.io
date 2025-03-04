@@ -19,23 +19,39 @@ output:
 ---
  
 ## 
+I am a Lecturer and Director of Undergraduate Studies in the Department of Political Science at Yale University. My research focuses on political representation, gender, and comparative political institutions. I examine the representation of women, exploring the conditions that foster women’s political leadership and the consequences of women in power within political parties and legislative institutions.
 
-I am a lecturer and Director of Undergraduate Studies in the Department of Political Science at Yale University and my research interests are focused on political representation, gender, and comparative political institutions. My work examines the representation of women, exploring the conditions that encourage women's political leadership and the consequences of women in power within political parties and legislative institutions. The cornerstone of my research is the multifaceted role political party institutions and electoral rules play in shaping representation. I focus primarily on how the internal organization of parties promote women to positions of political power and how party structures interact with system-level political institutions. My reseach is largely based in a European context, researching parties in both Western and Eastern Europe and the European Union. My research has been published or is forthcoming in [The Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/727603 "The Journal Of Politics"){target="_blank"}, [Party Politics](https://journals.sagepub.com/doi/10.1177/1354068818806630 "Party Politics"){target="_blank"}, and [Politics & Gender](https://www.cambridge.org/core/journals/politics-and-gender/article/pandemic-performance-women-leaders-in-the-covid19-crisis/579B3EA9BE0CD8215EE2E74257252FED  "Politics & Gender"){target="_blank"}, among others. I have a book manuscript with [William Daniel](https://sites.google.com/site/wdaniel127/ "William T. Daniel"){target="_blank"} on the effects of gender quotas on political careers that is under contract at [Oxford University Press](https://global.oup.com/academic/?cc=us&lang=en& "Oxford University Press"){target="_blank"} and a project on women party leaders with [Zeynep Somer-Topcu](https://zeynepsomer.com/ "Zeynep Somer-Topcu"){target="_blank"} that is under contract at Cambridge University Press with the [Elements in Gender and Politics ](https://www.cambridge.org/core/publications/elements/elements-in-gender-and-politics "Elements in Gender and Politics"){trage="_blank"} series. 
+The cornerstone of my research is the multifaceted role of political party institutions and electoral rules in shaping representation. I primarily investigate how the internal organization of parties promotes women to positions of political power and how party structures interact with system-level political institutions. My work is largely based in Europe, studying parties in both Western and Eastern Europe as well as the European Union.
 
-Before arriving at Yale, I was a Postdoctoral Research Fellow at the University of Houston with the [Political Parties Database](https://www.politicalpartydb.org/ "Political Parties Database"){target="_blank"} under the direction of Dr. Susan Scarrow, a visiting scholar at Texas A&M University, and Fulbright Scholar at the University of Zagreb in Croatia. I am also the Treasurer of the [Women's Caucus of the Midwest Political Science Association](http://www.mpsawomen.org/index.html "Women's Caucus of the Midwest Political Science Association"){target="_blank"}, Program Chair for the [Women, Gender, and Politics](https://connect.apsanet.org/apsa2024/ "Women, Gender, and Politics"){target="_blank"} section of the APSA 2024 Annual Meeting, a former co-chair of the [Parties Research Network for the Council for European Studies](https://councilforeuropeanstudies.org/membership/research-networks/political-parties-party-systems-and-elections/Political "Parties Research Network for the Council for European Studies"){target="_blank"}, and convener of the [Gender in the Social Sciences Workshop at Yale](https://genderworkshop.yale.edu/ "Gender in the Social SCience Workshop"){target="_blank"}. 
+My research has been published in [The Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/727603 "The Journal Of Politics"){target="_blank"}, [Party Politics](https://journals.sagepub.com/doi/10.1177/1354068818806630 "Party Politics"){target="_blank"}, and [Politics & Gender](https://www.cambridge.org/core/journals/politics-and-gender/article/pandemic-performance-women-leaders-in-the-covid19-crisis/579B3EA9BE0CD8215EE2E74257252FED  "Politics & Gender"){target="_blank"}, among others. I also have a forthcoming project on women party leaders with [Zeynep Somer-Topcu](https://zeynepsomer.com/ "Zeynep Somer-Topcu"){target="_blank"}, which will be published by Cambridge University Press in the [Elements in Gender and Politics ](https://www.cambridge.org/core/publications/elements/elements-in-gender-and-politics "Elements in Gender and Politics"){target="_blank"} series. 
+
+
+My new book, [Gender Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politician]( https://academic.oup.com/book/59689/ "Gender Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians"){target="_blank"}, co-authored with [William Daniel](https://sites.google.com/site/wdaniel127/ "William T. Daniel"){target="_blank"}, is now available from Oxford University Press. You can preview the first chapter of the book, for free, [here](https://play.google.com/books/reader?id=6ihJEQAAQBAJ&pg=GBS.PP1&hl=en&fbclid=IwY2xjawIuwPJleHRuA2FlbQIxMAABHaOjnqJV4yw0W4wJSO3W0lBCJlcvTDAqDfloQxuCv_EFLiBA-IBygXvGUQ_aem_nVeFWPrx0PuzBGk3V-XA-w/"here"){target="_blank"}.
+
+
+
+<div style="text-align: center;">
+  <img src="book.jpeg" width="300px">
+</div>
+
+
+Before arriving at Yale, I was a Postdoctoral Research Fellow at the University of Houston with the [Political Parties Database](https://www.politicalpartydb.org/ "Political Parties Database"){target="_blank"} under the direction of Dr. Susan Scarrow, a visiting scholar at Texas A&M University, and Fulbright Scholar at the University of Zagreb in Croatia. I previously served as the Treasurer of the [Women's Caucus of the Midwest Political Science Association](http://www.mpsawomen.org/index.html "Women's Caucus of the Midwest Political Science Association"){target="_blank"}, Program Chair for the [Women, Gender, and Politics](https://connect.apsanet.org/apsa2024/ "Women, Gender, and Politics"){target="_blank"} section of the APSA 2024 Annual Meeting and serve on the executive council. I am a former co-chair of the [Parties Research Network for the Council for European Studies](https://councilforeuropeanstudies.org/membership/research-networks/political-parties-party-systems-and-elections/Political "Parties Research Network for the Council for European Studies"){target="_blank"}, and convener of the [Gender in the Social Sciences Workshop at Yale](https://genderworkshop.yale.edu/ "Gender in the Social SCience Workshop"){target="_blank"}. 
 
 
 &nbsp;
 
 ### Research
 
-**Forthcoming Books**
+**Books**
 
-*[Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians](https://www.dropbox.com/s/ncztww14skeql2y/Title%20Page.pdf?raw=1 "Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians"){target="_blank"}* with William T. Daniel (Forthcoming with Oxford University Press, 2025)
+*[Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians](https://www.dropbox.com/s/ncztww14skeql2y/Title%20Page.pdf?raw=1 "Career Disruptors: Quotas as Game Changers for the Recruitment, Selection, and Performance of Elected Politicians"){target="_blank"}* with William T. Daniel Oxford University Press, 2025.
+<details>
+<summary>*Abstract*</summary>
+Academic scholarship indicates that gender quotas can help to attain equal representation for men and women in elected office, yet less is known about what else they achieve. As moments of positive disruption, the implementation of gender quotas acts as a game changer for the full system of democratically elected politics. This book shows that quotas offer new opportunities for aspiring politicians to be recruited and seek election, as well as more gender equal ways of winning them. Findings show that legislators elected under quotas are more likely to display the valuable background qualifications necessary to succeed in office. By tracing the careers of legislators across subnational, national, and European levels from over forty years of office, it offers conclusive evidence that quotas can have profound effects on the nature of political careers for both men and women. In doing so, it unites new and existing theories and data to speak to the broader study of legislative and party politics, European Union studies, and political careers.
+</details>
+&nbsp;
 
-
-
-*[Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems](https://www.dropbox.com/s/d50waxtrko3bxxp/Gender_and_Party_Leadership_Change_Book%20%283%29.pdf?raw=1 "Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems"){target="_blank"}* w/ Zeynep Somer-Topcu (Under Contract with Cambridge Elements Gender and Politics Series).
+*[Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems](https://www.dropbox.com/s/d50waxtrko3bxxp/Gender_and_Party_Leadership_Change_Book%20%283%29.pdf?raw=1 "Glass Ceilings, Glass Cliffs, and Quicksands: Gendered Party Leadership in Parliamentary Systems"){target="_blank"}* w/ Zeynep Somer-Topcu (Forthcoming with Cambridge Elements Gender and Politics Series).
 <details>
 <summary>*Abstract*</summary>
 While the number of women in office around the world is on the rise, men continue to outnumber
@@ -56,7 +72,7 @@ survival of women party leaders.
 
  **Recent Publications**
  
- "[Gender Quotas and the Qualifications of Parliamentarians](https://www.journals.uchicago.edu/doi/full/10.1086/727603 "Gender Quotas and the Qualifications of Parliamentarians"){target="_blank"}" w/ William T. Daniel (Forthcoming at *The Journal of Politics*)
+ "[Gender Quotas and the Qualifications of Parliamentarians](https://www.journals.uchicago.edu/doi/full/10.1086/727603 "Gender Quotas and the Qualifications of Parliamentarians"){target="_blank"}" w/ William T. Daniel, *The Journal of Politics*, 86(2)2024.
 <details>
 <summary>*Abstract and Supplemental Materials*</summary>
 Gender quotas in legislative elections are a central component of institutional reform to increase women's inclusion in politics. We investigate how quotas affect women's representation and the qualifications of parliamentarians from all EU member states over the last 40 years, which had 11 countries pass gender quotas legislation. We capitalize on the unique variation of national electoral systems used in European Parliament elections to all nine legislative sessions (1979-2019) and investigate the relationship between quotas and the qualifications of parliamentarians. We provide compelling evidence that the passage of quota legislation is associated with higher levels of educational attainment among legislators. By examining the complete elected history of the European Parliament, we are able to provide generalizable and robust support for the impact of quotas on legislator qualities in a way that has thus far been observed in only single country contexts and fixed time periods. 
@@ -115,7 +131,7 @@ This paper explores how career paths leading to the European Parliament (EP) are
 
 **Articles**
 
-"A Rainbow Ceiling? Sexual Orientation and Party Leader Legitimacy" w/ Joseph Francesco Cozza, Gonzalo Di Landro, and Zeynep Somer-Topcu *Under Review*
+"A Rainbow Ceiling? Sexual Orientation and Party Leader Legitimacy" w/ Joseph Francesco Cozza, Gonzalo Di Landro, and Zeynep Somer-Topcu *R & R *
 <details>
 <summary>*Abstract*</summary>
 How do citizens evaluate queer party leaders? While recent scholarship has provided a window into how individuals evaluate queer legislators and candidates for elected office, few studies have examined voter evaluations of queer individuals in positions of political leadership. This study assesses public perceptions of queer party leaders, with a focus on leader legitimacy. Results from a conjoint experiment in the UK indicate that queer leaders are perceived to be less legitimate than straight leaders and that queer men and women face similar penalties. This finding holds regardless of the queer leader's level of legislative experience. Additionally, the parties that queer politicians lead are perceived to be more left-wing than those led by straight politicians. Finally, right-wing voters, and those who hold homophobic views are more likely to penalize queer leaders. Thus, queer party leaders are in disadvantage compared to their straight counterparts.
@@ -151,7 +167,7 @@ campaigns and are also less likely to be the subject of valance attacks.
 
 ### Teaching
   + Researching Women & Politics  (2024) (Seminar)
-  + Women, Politics, and Policy (2023) (Lecture)  
+  + Women, Politics, and Policy (2023, 2024) (Lecture)  
   + Women & Politics  (2018, 2019, [2020](https://www.dropbox.com/s/r9ikm460q6fmo47/PLSC220.Fall20.pdf?raw=1 "Syllabus"){target="_blank"}, 2022) (Seminar)
   + Comparative Political Parties and Electoral Systems (2019, 2020, [2022](https://www.dropbox.com/s/fqqsb986ku9dkml/Comparative.Political.Parties.2022.pdf?raw=1 "Syllabus"){target="_blank"}) (Seminar)
   + Legacies of Communism and Conflict in Europe (Lecture: 2017, 2018, [2019](https://www.dropbox.com/s/2e0fpf8f27fyi4d/PLSC400.Fall2019.pdf?raw=1 "Syllabus"){target="_blank"}), Seminar: [2021](https://www.dropbox.com/s/iitda2ch9ddig5l/PLSC400.Hybrid.2021.pdf?raw=1 "Syllabus"){target="_blank"}) (Lecture)
