@@ -4,11 +4,11 @@ title: "Andrea S. Aldrich"
 image: "2023_04_17_Headshot.jpg"
 links:
   - label: CV
-    url: "https://www.dropbox.com/scl/fi/zhkskmb6tu2hxpxz3ky5a/Aldrich_CV.pdf?rlkey=vizvhb8qzc16rw7abhyz4k7c4&st=1wq0n1hq&raw=1"
+    url: "https://www.dropbox.com/scl/fi/mofbowntpelo73nkydv5g/Aldrich_CV.pdf?rlkey=ej52zc569meyeczql7mrfzf5r&st=1ujegx1c&dl=0&raw=1"
   - label: Email
     url: "mailto:andrea.aldrich@yale.edu"
   - label: Office Hours
-    url: "https://calendly.com/undergrad-polisci"
+    url: "https://calendly.com/d/cnqc-t7b-tvb"
   - label: Data
     url: "https://dataverse.harvard.edu/dataverse/andreasaldrich/"
 
@@ -166,6 +166,7 @@ campaigns and are also less likely to be the subject of valance attacks.
 &nbsp;
 
 ### Teaching
+  + Senior Colloquium (2025) (Seminar)
   + Researching Women & Politics  (2024) (Seminar)
   + Women, Politics, and Policy (2023, 2024) (Lecture)  
   + Women & Politics  (2018, 2019, [2020](https://www.dropbox.com/s/r9ikm460q6fmo47/PLSC220.Fall20.pdf?raw=1 "Syllabus"){target="_blank"}, 2022) (Seminar)
