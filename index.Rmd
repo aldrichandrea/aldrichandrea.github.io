@@ -4,7 +4,7 @@ title: "Andrea S. Aldrich"
 image: "2023_04_17_Headshot.jpg"
 links:
   - label: CV
-    url: "https://www.dropbox.com/scl/fi/mofbowntpelo73nkydv5g/Aldrich_CV.pdf?rlkey=ej52zc569meyeczql7mrfzf5r&st=1ujegx1c&dl=0"
+    url:  "https://www.dropbox.com/scl/fi/yvgg6iwwvybgt179s0o9m/Aldrich_CV.pdf?rlkey=19uwp91d5w8ly16a3ld7gowzv&st=r026r192&dl=0"
   - label: Email
     url: "mailto:andrea.aldrich@yale.edu"
   - label: Office Hours
