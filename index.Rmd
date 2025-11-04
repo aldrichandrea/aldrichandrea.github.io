@@ -186,4 +186,11 @@ New Haven, CT 06520-8301\
 <a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/AndreAldrich?ref_src=twsrc%5Etfw">Tweets by AndreAldrich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
-
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PGQZBDTZ7X');
+</script>
